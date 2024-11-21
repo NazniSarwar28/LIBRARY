@@ -10,10 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Harshita
- */
+
 
 @WebServlet("/Book")
 public class Book extends HttpServlet {
