@@ -1,7 +1,6 @@
 <%-- 
     Document   : addBook
     Created on : 6 Nov, 2024, 3:18:11 PM
-    Author     : Harshita
 --%>
 
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
