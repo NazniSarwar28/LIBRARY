@@ -1,7 +1,6 @@
 <%-- 
     Document   : books
     Created on : 6 Nov, 2024, 3:18:52 PM
-    Author     : Harshita
 --%>
 
 <%@page import="java.sql.ResultSet"%>
